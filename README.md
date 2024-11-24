@@ -112,5 +112,3 @@ To create and automate the process of generating a Google Form and sending the f
 
 ### **Result**:
    The Google Form was successfully created and the form link was sent through Gmail and WhatsApp using UiPath Studio.
-
-This format follows similar guidelines as the Hello World exercise but focuses on a practical automation task involving multiple online tools (Google Forms, Gmail, and WhatsApp) in UiPath Studio.
